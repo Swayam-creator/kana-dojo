@@ -790,7 +790,7 @@
     "correct": "この漢字の読み方は難しいです。",
     "explanation": "Prefer noun linkage with の. (Pattern set 5)",
     "id": 99,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
